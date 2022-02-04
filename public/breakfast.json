@@ -1,0 +1,44 @@
+[
+    {
+       "id":1,
+       "name":"Bagel & Cream Cheese",
+       "price":6.99,
+       "description":"How we dream about our future",
+       "img":"https://i.ibb.co/1JJTrQs/breakfast1.png"
+    },
+    {
+       "id":2,
+       "name":"Breakfast Sandwitch",
+       "price":9.99,
+       "description":"How we dream about our future",
+       "img":"https://i.ibb.co/yg5hFPx/breakfast2.png"
+    },
+    {
+       "id":3,
+       "name":"Baked Chicken",
+       "price":10.99,
+       "description":"How we dream about our future",
+       "img":"https://i.ibb.co/DRtV00h/breakfast3.png"
+    },
+    {
+       "id":4,
+       "name":"Eggs Benedict",
+       "price":8.99,
+       "description":"How we dream about our future",
+       "img":"https://i.ibb.co/qxsGtHJ/breakfast4.png"
+    },
+    {
+       "id":5,
+       "name":"Toast Croissant Fried Egg",
+       "price":19.99,
+       "description":"How we dream about our future",
+       "img":"https://i.ibb.co/RYLzS58/breakfast5.png"
+    },
+    {
+       "id":6,
+       "name":"Full Breakfast Fried Egg Toast Brunch",
+       "price":3.99,
+       "description":"How we dream about our future",
+       "img":"https://i.ibb.co/frpg6Kx/breakfast6.png"
+    }
+ ]
